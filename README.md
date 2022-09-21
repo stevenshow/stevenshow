@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 
-[![Terminal Website Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal_website&theme=blue-green)](https://https://github.com/stevenshow/terminal_website)
+[![Terminal Website Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal_website&theme=blue-green)](https://github.com/stevenshow/terminal_website)
 
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenshow&show_icons=true&theme=blue-green&hide=stars,issues,contribs)
 
