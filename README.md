@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenshow&show_icons=true&theme=gruvbox)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenshow&show_icons=true&theme=blue-green)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=stevenshow&theme=gruvbox&border_radius=4.5) -->
 
