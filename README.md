@@ -1,4 +1,4 @@
-### 🧰 Languages and Tools
+### `</>` 🛠️ Languages and Tools
 
 <img align="left" alt="Node" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="React" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -8,7 +8,6 @@
 <img align="left" alt="RaspberryPi" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Linux" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Oracle" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-<img align="left" alt="Handlebars" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
 <img align="left" alt="VsCode" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="MaterialUI" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Bootstrap" width="27px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -22,13 +21,17 @@
 
 #
 
-### 📊 Stats
+### 🔭 I’m currently working on ...
 
 [![Terminal Website Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal_website&theme=blue-green)](https://github.com/stevenshow/terminal_website)
 
 [![Terminal Server Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal-server&theme=blue-green)](https://github.com/stevenshow/terminal-server)
 
 [![Autotech Website](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=autotech-website&theme=blue-green)](https://github.com/stevenshow/autotech-website)
+
+#
+
+### 📊 Stats
 
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenshow&show_icons=true&theme=blue-green&hide=stars,issues,contribs)
 
@@ -44,7 +47,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
