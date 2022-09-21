@@ -28,6 +28,8 @@
 
 [![Terminal Server Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal-server&theme=blue-green)](https://github.com/stevenshow/terminal-server)
 
+[![Autotech Website](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=autotech-website&theme=blue-green)](https://github.com/stevenshow/autotech-website)
+
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenshow&show_icons=true&theme=blue-green&hide=stars,issues,contribs)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=stevenshow&theme=blue-green&border_radius=4.5)
