@@ -24,13 +24,16 @@
 
 ### 📊 Stats
 
+[![Terminal Website Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal_website&theme=blue-green)](https://https://github.com/stevenshow/terminal_website)
+
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenshow&show_icons=true&theme=blue-green&hide=stars,issues,contribs)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=stevenshow&theme=blue-green&border_radius=4.5)
 
+
+
 #
 
-[website]: https://devsteve.net
 
 <!--
 **stevenshow/stevenshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
