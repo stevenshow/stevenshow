@@ -33,8 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=terminal-server&theme=blue-green"/>
 </a>
 
-<a href="https://github.com/stevenshow/autotech-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=autotech-website&theme=blue-green"/>
+<a href="https://github.com/stevenshow/task-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevenshow&repo=task-tracker&theme=blue-green"/>
 </a>
 
 #
